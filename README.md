@@ -83,7 +83,7 @@ This project was inspired by real reliability issues reported in 500+ reviews of
 
 ## 👨‍💻 Author
 
-Built by [Your Name] — Pune, India 🇮🇳
+Built by Aditya Karjule — Pune, India 🇮🇳
 
-LinkedIn: [your-linkedin] | GitHub: [your-github]
+LinkedIn: https://www.linkedin.com/in/aditya-karjule-38427925a | GitHub: https://github.com/Aditya-karjule/
 "# Meetsense" 
